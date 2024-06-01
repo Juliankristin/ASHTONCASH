@@ -108,7 +108,7 @@
 }
 
 .section1{
-    background-image: url('assets/img/background.jpg');
+    background-image: url('/assets/img/background.jpg');
     background-position:center;
     background-size:cover;
     background-repeat: no-repeat;
@@ -117,12 +117,12 @@
     height: 550px;
 }
 .spiral{
-    background-image:url('assets/img/download.png'); 
+    background-image:url('/assets/img/download.png');
     background-size: contain;
 }
 .picdark{
     height: 550px;
-    background-color: #05080ca7;
+    background-color: #05080cae;
 }
 .one{
     text-align: center;
